@@ -1,4 +1,4 @@
-CS50 — 2018 solutions
+CS50 solutions
 =====================
 
 ## Table of Contents
